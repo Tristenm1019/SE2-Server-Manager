@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\se2\\manager\\kit\\SE2ServerManager.csproj": {}
+    "C:\\SE2\\Manager\\kit\\SE2ServerManager.csproj": {}
   },
   "projects": {
-    "C:\\se2\\manager\\kit\\SE2ServerManager.csproj": {
+    "C:\\SE2\\Manager\\kit\\SE2ServerManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\se2\\manager\\kit\\SE2ServerManager.csproj",
+        "projectUniqueName": "C:\\SE2\\Manager\\kit\\SE2ServerManager.csproj",
         "projectName": "SE2ServerManager",
-        "projectPath": "C:\\se2\\manager\\kit\\SE2ServerManager.csproj",
+        "projectPath": "C:\\SE2\\Manager\\kit\\SE2ServerManager.csproj",
         "packagesPath": "C:\\Users\\trist\\.nuget\\packages\\",
-        "outputPath": "C:\\se2\\manager\\kit\\obj\\",
+        "outputPath": "C:\\SE2\\Manager\\kit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trist\\AppData\\Roaming\\NuGet\\NuGet.Config"

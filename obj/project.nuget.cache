@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kNg+85Axoe4=",
+  "dgSpecHash": "MBrf1SPtcEo=",
   "success": true,
-  "projectFilePath": "C:\\se2\\manager\\kit\\SE2ServerManager.csproj",
+  "projectFilePath": "C:\\SE2\\Manager\\kit\\SE2ServerManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trist\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.32\\microsoft.netcore.app.ref.8.0.32.nupkg.sha512",
     "C:\\Users\\trist\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.32\\microsoft.windowsdesktop.app.ref.8.0.32.nupkg.sha512",
