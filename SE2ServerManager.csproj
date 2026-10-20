@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+<PropertyGroup><OutputType>WinExe</OutputType><TargetFramework>net8.0-windows</TargetFramework><UseWPF>true</UseWPF><Nullable>enable</Nullable><ImplicitUsings>enable</ImplicitUsings><AssemblyName>SE2ServerManager</AssemblyName><UseWindowsForms>true</UseWindowsForms></PropertyGroup>
+<ItemGroup><None Include="Kit\**\*" CopyToOutputDirectory="PreserveNewest" /></ItemGroup>
+</Project>
